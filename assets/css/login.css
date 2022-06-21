@@ -18,12 +18,12 @@ body {
   transform: translate(-50%, -50%);
 }
 
-.title-box {
+.title_box {
   height: 60px;
   background: url('/assets/images/login_title.png') no-repeat center;
 }
 
-.reg-box {
+.reg_box {
   display: none;
 }
 
